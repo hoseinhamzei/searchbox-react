@@ -1,2 +1,2 @@
 # searchbox-react
-searchbox with json api and react sample.
+product search and add new product. built with react.
